@@ -1,7 +1,7 @@
 # Word Fun with Pixels
 By [Naimur Rahman](https://github.com/nayeem-rafi)
 
-## [Click for Files)](https://drive.google.com/drive/folders/1eOz8DStuYFjj4GVER_mqZnWJsUuunMoy?usp=drive_link)
+## [Click for Files](https://drive.google.com/drive/folders/1eOz8DStuYFjj4GVER_mqZnWJsUuunMoy?usp=drive_link)
 A MATLAB project that creatively draws letters like **A**, **L**, **M**, **N**, **Z**, **O**, **C**, **W**, **X**, and **V** using pixel-based positioning in images. Each letter is designed by strategically coloring pixels within a matrix to form distinct shapes and patterns, showcasing how digital letters can be created through pixel manipulation.
 
 ## Introduction
