@@ -41,6 +41,9 @@ Each letter can be displayed in different colors by modifying the RGB channels:
 
 ## Layouts and Calculations for Each Letter
 
+### A Drawing
+The letter "A" is drawn using two diagonal lines and a horizontal line connecting them. The green color is applied by setting specific pixel regions in the RGB matrix, ensuring symmetry and a clear representation of the letter.
+
 ### L Drawing
 This letter is drawn by creating a vertical line and a horizontal line in the image matrix. Green is applied by setting the RGB channels accordingly.
 
